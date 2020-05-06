@@ -1,0 +1,16 @@
+overallIncom,total_revenue
+overallCosts,operating_costs
+costMainBus,operating_taxes_and_surcharge
+sellDistribExpens,sales_fee
+generAdminExpens,manage_fee
+finanExpens,financing_expenses
+impairLoss,asset_impairment_loss
+invsIn,invest_income
+profOperate,op
+nonOperProf,non_operating_income
+nonOperEps,non_operating_payout
+profBefTax,profit_total_amt
+revenue,revenue
+operatingCost,operating_cost
+inTaxEps,income_tax_expenses
+netProf,net_profit
